@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/category-management": "^201907.0",
     "spryker-shop/category-image-storage-widget": "^1.0.0",
     "spryker/category-image": "^1.0.0",
     "spryker/category-image-gui": "^1.0.0",
