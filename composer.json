@@ -10,7 +10,7 @@
     "spryker-shop/category-image-storage-widget": "^1.0.0",
     "spryker/category-image": "^1.1.0",
     "spryker/category-image-gui": "^1.1.0",
-    "spryker/category-image-storage": "^1.1.0"
+    "spryker/category-image-storage": "^1.4.0"
   },
   "extra": {
     "branch-alias": {
