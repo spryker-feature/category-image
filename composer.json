@@ -1,23 +1,23 @@
 {
-  "name": "spryker-feature/category-image",
-  "description": "Category Image [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.2",
-    "spryker-shop/category-image-storage-widget": "^1.0.0",
-    "spryker/category-image": "^1.1.0",
-    "spryker/category-image-gui": "^1.1.0",
-    "spryker/category-image-storage": "^1.4.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/category-image",
+    "description": "Category Image [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0",
+        "spryker-shop/category-image-storage-widget": "^1.0.0",
+        "spryker/category-image": "^1.1.0",
+        "spryker/category-image-gui": "^1.1.0",
+        "spryker/category-image-storage": "^1.4.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202404.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/category-management": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/category-management": "Recommended feature dependency."
-  }
 }
